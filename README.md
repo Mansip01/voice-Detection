@@ -1,5 +1,6 @@
 # voice-Detection
 ai voice detection
+https://youtu.be/5S3LguN2NQ4?si=MKz71tyCxvDar3BL
 6가지 항목으로 이루어진 데이터
 1. 진짜음성,진짜음성
 2. 가짜음성, 진짜음성
@@ -8,5 +9,5 @@ ai voice detection
 5. 진짜 음성
 6. 가짜 음성
 
-
+test 파일에 대한 결과를 csv파일로 도출.
 앱에 csv파일을 받아서 ai로 의심되는 항목을 누르면 해당 전화번호로 경고 문자 보내기 가능.
