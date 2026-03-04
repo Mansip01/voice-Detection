@@ -1,6 +1,6 @@
 # voice-Detection
 ai voice detection
-https://youtu.be/5S3LguN2NQ4?si=MKz71tyCxvDar3BL
+
 6가지 항목으로 이루어진 데이터
 1. 진짜음성,진짜음성
 2. 가짜음성, 진짜음성
